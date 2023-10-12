@@ -1,2 +1,2 @@
 # Solving-the-att48-TSP
-Solving the att48 TSP using a simulated annealing approach and a genetic algorithm approach
+Solving the att48 travelling salesman problem using a simulated annealing approach and a genetic algorithm approach
